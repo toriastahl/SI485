@@ -9,18 +9,18 @@ PIReT will compare the Amazon UK and Argos’ query suggestions and search resul
 
 
 # Analysis
-*SIGIR_QS_az.ipynb*:
+*SIGIR_QS_az.ipynb*: code analyzing the data collected in the Amazon UK notebooks (in the code folder) for gender associations.
 
-*SIGIR_QS_argos.ipynb*:
+*SIGIR_QS_argos.ipynb*: code analyzing the data collected in the Argos notebooks for gender associations.
 
 # predoc_info
-*all_items.txt*:
+*all_items.txt*: list of toys used as search inputs for scraping.
 
-*predoc_stereotyped_items.csv*:
+*predoc_stereotyped_items.csv*: items from all_items.txt sorted by stereotypical gender associations with a column of toys for boy, girl, and neutral.
 
-*predoc_toys_w_gender_labels.csv*:
+*predoc_toys_w_gender_labels.csv*: toys from all_items.txt labelled with stereotypical gender associations with one column containing the gender label (boy, girl, or neutral) and another column containing the toy.
 
-*selenium.ipynb*:
+*selenium.ipynb*: code to install selenium
 
 
 # Code
