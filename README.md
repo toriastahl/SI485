@@ -11,7 +11,7 @@ PIReT will compare the Amazon UK and Argos’ query suggestions and search resul
 # Analysis
 *SIGIR_QS_az.ipynb*: code analyzing the data collected in the Amazon UK notebooks (in the code folder) for gender associations.
 
-*SIGIR_QS_argos.ipynb*: code analyzing the data collected in the Argos notebooks for gender associations.
+*SIGIR_QS_argosuk.ipynb*: code analyzing the data collected in the Argos notebooks for gender associations.
 
 # predoc_info
 *all_items.txt*: list of toys used as search inputs for scraping.
