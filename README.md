@@ -9,9 +9,7 @@ PIReT will compare the Amazon UK and Argos’ query suggestions and search resul
 
 
 # Analysis
-*SIGIR_QS_az.ipynb*: code analyzing the data collected in the Amazon UK notebooks (in the code folder) for gender associations.
-
-*SIGIR_QS_argosuk.ipynb*: code analyzing the data collected in the Argos notebooks for gender associations.
+*SIGIR_QS_UK.ipynb*: using the data collected in the query suggestion notebooks, analyzing for gender associations and comparing the two UK e-commerce sites scraped (Amazon UK and Argos).
 
 # predoc_info
 *all_items.txt*: list of toys used as search inputs for scraping.
@@ -41,12 +39,12 @@ PIReT will compare the Amazon UK and Argos’ query suggestions and search resul
 
 ***Amazon UK***</br>
 
-*az_uk_query_suggestions.csv*: resulting csv file containing data obtained from scraping Amazon UK's IR system's query suggestions.
+*az_uk_query_suggestions.csv*: resulting csv file containing data obtained from scraping Amazon UK's IR system's query suggestions for pre-determined queries from the predoc_info folder.
 
 *az_uk_search_results.csv*: resulting csv file containing data obtained from scraping Amazon UK's search results for each item.
 
 ***Argos***</br>
 
-*argos_query_suggestions.csv*: resulting csv file containing data obtained from scraping Argos's IR system's query suggestions.
+*argos_query_suggestions.csv*: resulting csv file containing data obtained from scraping Argos's IR system's query suggestions using pre-determined queries from the predoc_info folder.
 
 *argos_search_results.csv*: resulting csv file containing data obtained from scraping Argos's search results for each item.
